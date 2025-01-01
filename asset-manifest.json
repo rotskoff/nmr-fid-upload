@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nmr-fid-upload/static/css/main.0c36d2f4.css",
+    "main.js": "/nmr-fid-upload/static/js/main.54bc0e30.js",
+    "static/js/488.571dc8ec.chunk.js": "/nmr-fid-upload/static/js/488.571dc8ec.chunk.js",
+    "index.html": "/nmr-fid-upload/index.html",
+    "main.0c36d2f4.css.map": "/nmr-fid-upload/static/css/main.0c36d2f4.css.map",
+    "main.54bc0e30.js.map": "/nmr-fid-upload/static/js/main.54bc0e30.js.map",
+    "488.571dc8ec.chunk.js.map": "/nmr-fid-upload/static/js/488.571dc8ec.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c36d2f4.css",
+    "static/js/main.54bc0e30.js"
+  ]
+}
